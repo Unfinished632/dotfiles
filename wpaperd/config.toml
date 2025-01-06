@@ -1,0 +1,7 @@
+[any]
+path = "~/wallpapers/"
+duration = "5m"
+sorting = "ascending"
+transition-time = 300
+offset = 0.0
+initial-transition = true
